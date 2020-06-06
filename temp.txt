@@ -1,0 +1,79 @@
+<div>
+	<div style="margin:40px 40px 40px 150px ; float:left" >	
+		<div class="card" style="width: 35rem;">
+		<img src="s20.jpg" class="card-img-top" alt="...">
+		<div class="card-body">
+		<h5 class="card-title"><b>Galaxy S20 Ultra</b></h5>
+		<p class="card-text">Rs. 219,999</p>
+		<a href="#" class="btn btn-primary">Veiw Details</a>
+		</div>
+		</div>
+	</div>
+	<div style="margin:40px 40px 40px 40px; float:left" >	
+		<div class="card" style="width: 35rem;">
+		<img src="s22.jpg" class="card-img-top" alt="...">
+		<div class="card-body">
+		<h5 class="card-title"><b>Galaxy S20 Plus</b></h5>
+		<p class="card-text">Rs. 184,999</p>
+		<a href="#" class="btn btn-primary">Veiw Details</a>
+		</div>
+		</div>
+	</div>
+	<div style="margin:40px 40px 40px 40px; float:left" >	
+		<div class="card" style="width: 35rem;">
+		<img src="s21.png" class="card-img-top" alt="...">
+		<div class="card-body">
+		<h5 class="card-title"><b>Galaxy S20</b></h5>
+		<p class="card-text">Rs. 164,999</p>
+		<a href="#" class="btn btn-primary">Veiw Details</a>
+		</div>
+		</div>
+	</div>
+	</div>
+
+
+<div style="background-color: #1C2833; float:middle;min-height:38% ; margin:10px 10px 10px 80px" >
+		<div>
+		<div>
+			<img src="s20.jpg" height=35% width=30% style="float:left ; margin:10px 10px 10px 10px" >
+		</div><br>
+		<div>
+			<h3 style="float:left" >Galaxy s20 Ultra</h3>
+		</div>
+		</div>
+		<div>
+			<img src="s22.jpg" height=35% width=30% style="float:left ; margin:10px 10px 10px 10px" >
+		</div>
+		<div>
+			<img src="s21.png" height=35% width=30% style="float:left ; margin:10px 10px 10px 10px" >
+		</div><br>
+	</div>
+
+
+
+<div style="background-color: white; float:middle ; margin:10px 10px 10px 80px" >
+		<div style="float:left" >
+		<div>
+			<img src="s20.jpg" height=35% width=30% style="float:top ; margin:10px 10px 10px 10px" >
+		</div>
+		<div>
+			<h3  >Galaxy s20 Ultra</h3>
+		</div>
+		</div>
+		<div style="float:left" >
+		<div>
+			<img src="s22.jpg" height=35% width=30% style="float:top ; margin:10px 10px 10px 10px" >
+		</div>
+		<div>
+			<h3  >Galaxy s20 Plus</h3>
+		</div>
+		</div>
+		<div style="float:right" >
+		<div  >
+			<img src="s21.png" height=35% width=30% style="float:top ; margin:10px 10px 10px 10px" >
+		</div>
+		<div>
+			<h3> Galaxy s20 </h3>
+		</div>
+		</div>
+	</div>
